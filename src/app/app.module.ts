@@ -18,10 +18,10 @@ import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-ed
     HeaderComponent,
     RecipesComponent,
     RecipeListComponent,
+      RecipeItemComponent,
     RecipeDetailComponent,
-    RecipeItemComponent,
     ShoppingListComponent,
-    ShoppingEditComponent
+      ShoppingEditComponent
   ],
   imports: [
     BrowserModule,
